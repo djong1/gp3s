@@ -1,4 +1,4 @@
 # gp3s
-gps-speedsurfing and more
+GPS-Speedsurfing and more...
 
-Collect issues for GPS-speedsurfing, GPS-foling, GPS-kitesurfing and GPS-icesailing
+Collect issues for GPS-Speedsurfing.com, GPS-Foiling.com, GPS-Kitesurfing.com, GPS-Wingfoiling.com and GPS-Icesailing.com
