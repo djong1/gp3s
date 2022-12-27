@@ -1,0 +1,1 @@
+Authorize Url - This is the endpoint to initiate an authorization to Azure B2C. The format would be something like: https://{domain}.b2clogin.com/{domain}.onmicrosoft.com/{SignUpSignInPolicyId}/oauth2/v2.0/authorize. The SignUpSignInPolicyId is typically the user flow name which can be found at the User flows section in Azure AD B2C.
