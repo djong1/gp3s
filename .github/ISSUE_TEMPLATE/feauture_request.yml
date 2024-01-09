@@ -1,0 +1,21 @@
+name: Feature request
+description: Suggest an idea for this project.
+title: "[FEATURE]"
+
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Website
+      description: windsurf, foil, ice etc
+      placeholder: e.g. gps-speedsurfing
+    validations:
+      required: true
+  - type: textarea
+    id: background
+    attributes:
+      label: Please describe the feature.
+      description: What feature would you like to get added? What problem is it solving?
+      placeholder: Feature description
+    validations:
+      required: true
