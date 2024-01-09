@@ -6,9 +6,9 @@ body:
   - type: input
     id: version
     attributes:
-      label: Release version
-      description: Name and version of the release package used
-      placeholder: e.g. AzMigExport v2.0.02252.59
+      label: Website
+      description: windsurf, foil, ice etc
+      placeholder: e.g. gps-speedsurfing
     validations:
       required: true
   - type: textarea
